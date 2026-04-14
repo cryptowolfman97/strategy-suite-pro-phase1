@@ -1,7 +1,7 @@
 [app]
 
 title = Strategy Suite Pro v7 by SHV
-package.name = strategysuitepro-by-shv-v7
+package.name = strategysuiteprobyshvv7
 package.domain = org.sachith
 
 source.dir = .
