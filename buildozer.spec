@@ -15,7 +15,6 @@ orientation = portrait
 icon.adaptive_foreground.filename = foreground.png
 icon.adaptive_background.filename = background.png
 fullscreen = 0
-
 android.permissions = INTERNET,READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 android.accept_sdk_license = True
 
